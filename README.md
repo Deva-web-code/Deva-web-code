@@ -1,16 +1,32 @@
-## Hi there 👋
+Pavan Kumar Devadi
 
-<!--
-**Deva-web-code/Deva-web-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Finance & Analytics — building the technical toolkit to back financial analysis with SQL and Python.
 
-Here are some ideas to get you started:
+MS in Finance, Investment & Management, Sacred Heart University.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Show Image
+Show Image
+Show Image
+Show Image
+
+Projects
+
+
+Finance-SQL-Portfolio — Startup financial analytics database in SQL. Reports on revenue, AR aging, department spend, and profit & loss.
+capm-financial-analysis — CAPM regression (Alpha, Beta, R²) for Google, Apple, and Bitcoin vs. the S&P 500, in Python.
+multi-asset-capm-modeling — Companion CAPM analysis in Jupyter Notebook.
+
+
+Skills
+
+
+SQL — PostgreSQL/MySQL/SQLite: filtering, aggregation, joins, window functions, CTEs
+Python — pandas, NumPy, statsmodels, yfinance
+Financial modeling — CAPM, regression analysis, financial statement analysis
+
+
+Contact
+
+
+Email: dpavankumar121@gmail.com
+LinkedIn: https://www.linkedin.com/in/pavan-kumar-devadi-128a59175/
